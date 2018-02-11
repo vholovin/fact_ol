@@ -53,6 +53,6 @@ You may to use also mouse to moving and zooming.
 
 from '`1`' to '`7`' - Choose mode
 
-#'`R`' - Reset
+# '`R`' - Reset
 
 # '`esc`' - Exit
